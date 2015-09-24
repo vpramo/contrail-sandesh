@@ -1,0 +1,6 @@
+compiler/* /usr/src/contrail-sandesh/compiler/
+library/* /usr/src/contrail-sandesh/library/
+LICENSE /usr/src/contrail-sandesh/
+README.md /usr/src/contrail-sandesh/
+SConscript /usr/src/contrail-sandesh/
+utils/* /usr/src/contrail-sandesh/utils/
